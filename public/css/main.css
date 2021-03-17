@@ -1,0 +1,22 @@
+.jthcf-main-form .form-group {
+	margin-bottom: 25px;
+}
+
+.jthcf-main-form input,
+.jthcf-main-form select,
+.jthcf-main-form .btn {
+	height: 60px;
+}
+
+.jthcf-main-form select, .jthcf-main-form .btn {
+	display: block;
+	width: 100%;
+}
+
+.jthcf-main-form {
+	max-width: 300px !important;
+}
+
+.jthcf-main-form .btn {
+	margin-top: 45px;
+}
